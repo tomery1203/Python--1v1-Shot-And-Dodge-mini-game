@@ -1,4 +1,4 @@
-# Python--1v1-mini-game
+# Python--1v1 Shot and Dodge Bullet Mini Game
 
 This is a 1v1 mini game built with Python and Pygame. The objective of the game is to dodge bullets and shoot your opponent. The game includes two characters and sound effects, and is built using Pygame library.
 
